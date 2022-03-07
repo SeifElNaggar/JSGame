@@ -1,0 +1,37 @@
+body{
+    display: block;
+    text-align: center;
+    background-image: url("table.jpeg");
+    background-size: cover;
+    color: white;
+    font-weight: bold;   
+     font-family: 'Open Sans', sans-serif;
+}
+h1{
+    color: whitesmoke ;
+}
+#messageEl{
+    font-style: italic;
+}
+#startButton{
+    color: #016f32;
+    width: 150px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
+#newCard{
+    color: #016f32;
+    width: 150px;
+    font-weight: bold;
+    cursor: pointer;
+    background-color: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    border: none;
+    border-radius: 2px;
+}
